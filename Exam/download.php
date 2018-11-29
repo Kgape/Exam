@@ -15,8 +15,7 @@ if(isset($_GET['id']))
 	$data = $stat->fetch();
 
 
-	$file = '
-    '.$data['name'];
+	$file = 'uploads/'.$data['name'];
 
 if(file_exists($file))
 {
