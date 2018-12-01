@@ -1,0 +1,100 @@
+
+ /*style for upload form*/
+ 
+ .upload-wrapper{
+    margin: 0 auto;
+    width: 100px;
+
+
+}
+
+.upload-form p {
+	float: center;
+ 	font-family: arial;
+ 	font-size: 30px;
+ 	text-align: center;
+}
+.upload-form h1
+{
+	font-family: arial;
+	font-size: 30px;
+	text-align: center;
+
+}
+
+.upload-form  input{
+	background: #f3f3f3;
+	width: 80px;
+	float: center;
+	text-align: center;
+	color: #111;
+	width: 20%;
+
+	cursor: pointer;
+
+} 
+.upload-form  button{
+	background: #f3f3f3;
+	float: right;
+	width: 80px;
+	text-align: center;
+	color: #111;
+	width: 10%;
+
+	cursor: pointer;
+
+}  
+body .upload-form{
+    background: #ccc;
+
+    
+}
+body .view-form{
+	background: #ccc
+}
+
+
+.view-form p
+{
+	float: center;
+ 	font-family: arial;
+ 	font-size: 30px;
+ 	text-align: center;
+}
+
+.view-container {
+	background: #ccc;
+}
+ .edit-wrapper{
+    margin: 0 auto;
+    width: 100px;
+
+
+}
+
+.form-edit{
+    margin: 0 auto;
+    width: 1000px;
+
+
+}
+.form-edit p {
+	float: center;
+ 	font-family: arial;
+ 	font-size: 30px;
+ 	text-align: center;
+}
+
+.form-edit h1 {
+	float: center;
+ 	font-family: arial;
+ 	font-size: 30px;
+ 	text-align: center;
+}
+
+.form-edit {
+	background: #ccc;
+}
+body .form-edit{
+	background: #ccc
+}
